@@ -26,3 +26,5 @@ replay_pid*
 
 # Mac OS X
 *.DS_Store
+
+.idea
